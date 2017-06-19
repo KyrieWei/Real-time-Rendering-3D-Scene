@@ -1,0 +1,7 @@
+﻿  cloader.cpp
+d:\c++ program\caemptypro\caemptypro\cloader.cpp(18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+d:\c++ program\caemptypro\caemptypro\cloader.cpp(20): warning C4996: 'filelength': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _filelength. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\corecrt_io.h(486): note: 参见“filelength”的声明
+  CAEmptyPro.vcxproj -> D:\c++ program\CAEmptyPro\Debug\CAEmptyPro.exe
+  CAEmptyPro.vcxproj -> D:\c++ program\CAEmptyPro\Debug\CAEmptyPro.pdb (Partial PDB)
